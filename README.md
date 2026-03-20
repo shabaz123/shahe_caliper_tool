@@ -1,5 +1,5 @@
 shahe_caliper_tool
-# Tool(s) for Shahe calipers
+# Tools for Shahe calipers
 
 ## Remote Viewing
 To use, turn on the calipers, then hold down the little round black button on the side of the calipers for a couple of seconds, and then release. You should see a wireless icon flashing on the display. 
